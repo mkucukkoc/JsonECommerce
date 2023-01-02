@@ -52,12 +52,12 @@
   },
   {
     "id": 7,
-    "name": "Cat Bruıser 2.0",
-    "description": "Cat Bruıser 2.0 015M101326 Erkek Bot - Siyah Nubuk\n",
-    "price": 1699,
-    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot7.jpeg",
+    "name": "Pull & Bear Urban",
+    "description": "Farklı Hava Koşullarında Kullanıma Uygundur. Yağmur Ve Kardan Kaynaklanan Islaklığı Engeller Ayağı Sıcak Tutan Materyallerden Üretilen Ayakkabılar, Vücut Isısının Düzenlenmesine Yardımcı Olur. Sıcaklığın Çok Düşük Dereceler Gördüğü Bölgelerde Bile Ayağın Konforunun Korunmasını Sağlar. Tüm Tasarım Ayrıntıları İle Sonbahar - Kış Sezonunda Konforunuzu Artıracak,Tüm Hava Şartlarında Kullanıma Uygundur\n",
+    "price": 189,
+    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot6.jpeg",
     "type": "Boots",
-    "brand": "Cat",
+    "brand": "Harley",
     "quantityInStock": 100
   },
   {
