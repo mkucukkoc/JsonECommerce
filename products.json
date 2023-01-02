@@ -4,7 +4,7 @@
     "name": "Letao Erkek",
     "description": "Letao Kışlık Erkek Soğuga Dayanıklı Trekking Bot\n",
     "price": 150,
-    "pictureUrl": "/res/drawable/bot.png",
+    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot.png",
     "type": "Boots",
     "brand": "Letao",
     "quantityInStock": 100
