@@ -4,7 +4,7 @@
     "name": "Letao Erkek",
     "description": "Letao Kışlık Erkek Soğuga Dayanıklı Trekking Bot\n",
     "price": 150,
-    "pictureUrl": "/images/products/bot25.jpeg",
+    "pictureUrl": "/res/drawable/bot.png",
     "type": "Boots",
     "brand": "Letao",
     "quantityInStock": 100
