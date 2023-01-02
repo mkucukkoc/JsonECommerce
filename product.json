@@ -19,16 +19,7 @@
     "brand": "Harley-Davidson",
     "quantityInStock": 100
   },
-  {
-    "id": 3,
-    "name": "Harley Davidson ",
-    "description": "Harley - Davidson Plockton 021M100561 Erkek Bot - Siyah Deri\n",
-    "price": 1500,
-    "pictureUrl": "/https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot9.jpeg",
-    "type": "Boots",
-    "brand": "Harley Davidson",
-    "quantityInStock": 100
-  },
+
   {
     "id": 4,
     "name": "Harley Davidson RIDD",
