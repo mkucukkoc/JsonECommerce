@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Letao Erkek Watertight Trekking Kürklü \n",
+    "name": "Letao Erkek",
     "description": "Letao Kışlık Erkek Soğuga Dayanıklı Trekking Bot\n",
     "price": 150,
     "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot1.jpeg",
@@ -11,30 +11,30 @@
   },
   {
     "id": 2,
-    "name": "Harley-Davidson Arles 025M100704 Siyah Deri Bot\n",
+    "name": "Harley-Davidson ",
     "description": "Farklı Hava Koşullarında Kullanıma Uygundur. Yağmur Ve Kardan Kaynaklanan Islaklığı Engeller Ayağı Sıcak Tutan Materyallerden Üretilen Ayakkabılar, Vücut Isısının Düzenlenmesine Yardımcı Olur. Sıcaklığın Çok Düşük Dereceler Gördüğü Bölgelerde Bile Ayağın Konforunun Korunmasını Sağlar. Tüm Tasarım Ayrıntıları İle Sonbahar - Kış Sezonunda Konforunuzu Artıracak,Tüm Hava Şartlarında Kullanıma Uygundur.﻿ Ürünlerimiz Yeşil Kundura Sanayi A.Ş. Güvencesindedir.\n",
     "price": 1765,
-    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot10.jpeg",
+    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot2.jpeg",
     "type": "Boots",
     "brand": "Harley-Davidson",
     "quantityInStock": 100
   },
   {
     "id": 3,
-    "name": "Harley Davidson Harley - Davidson Plockton \n",
+    "name": "Harley Davidson ",
     "description": "Harley - Davidson Plockton 021M100561 Erkek Bot - Siyah Deri\n",
     "price": 1500,
-    "pictureUrl": "/https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot12.jpeg",
+    "pictureUrl": "/https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot3.jpeg",
     "type": "Boots",
     "brand": "Harley Davidson",
     "quantityInStock": 100
   },
   {
     "id": 4,
-    "name": "Harley Davidson RIDDICK - 025M1005 Yeşil Bot\n",
+    "name": "Harley Davidson RIDD",
     "description": "Riddick Olive Deri Bot\n",
     "price": 199,
-    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot11.jpeg",
+    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot4.jpeg",
     "type": "Boots",
     "brand": "Harley-Davidson",
     "quantityInStock": 100
@@ -44,27 +44,27 @@
     "name": "Cat Bruıser ",
     "description": "\nFarklı Hava Koşullarında Kullanıma Uygundur. Yağmur Ve Kardan Kaynaklanan Islaklığı Engeller Ayağı Sıcak Tutan Materyallerden Üretilen Ayakkabılar, Vücut Isısının Düzenlenmesine Yardımcı Olur. Sıcaklığın Çok Düşük Dereceler Gördüğü Bölgelerde Bile Ayağın Konforunun Korunmasını Sağlar. Tüm Tasarım Ayrıntıları İle Sonbahar - Kış Sezonunda Konforunuzu Artıracak,Tüm Hava Şartlarında Kullanıma Uygundur",
     "price": 1670,
-    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot2.jpeg",
+    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot5.jpeg",
     "type": "Boots",
     "brand": "Cat",
     "quantityInStock": 100
   },
   {
     "id": 6,
-    "name": "Pull & Bear Urban Bağcıklı Bot 12006040\n",
+    "name": "Pull & Bear Urban",
     "description": "Farklı Hava Koşullarında Kullanıma Uygundur. Yağmur Ve Kardan Kaynaklanan Islaklığı Engeller Ayağı Sıcak Tutan Materyallerden Üretilen Ayakkabılar, Vücut Isısının Düzenlenmesine Yardımcı Olur. Sıcaklığın Çok Düşük Dereceler Gördüğü Bölgelerde Bile Ayağın Konforunun Korunmasını Sağlar. Tüm Tasarım Ayrıntıları İle Sonbahar - Kış Sezonunda Konforunuzu Artıracak,Tüm Hava Şartlarında Kullanıma Uygundur\n",
     "price": 189,
-    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot3.jpeg",
+    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot6.jpeg",
     "type": "Boots",
     "brand": "Harley",
     "quantityInStock": 100
   },
   {
     "id": 7,
-    "name": "Cat Bruıser 2.0 015M101326 Erkek Bot - Siyah Nubuk\n",
+    "name": "Cat Bruıser 2.0",
     "description": "Cat Bruıser 2.0 015M101326 Erkek Bot - Siyah Nubuk\n",
     "price": 1699,
-    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot4.jpeg",
+    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot7.jpeg",
     "type": "Boots",
     "brand": "Cat",
     "quantityInStock": 100
@@ -74,7 +74,17 @@
     "name": "Caterpillar Bruiser 2.0 Erkek Bot\n",
     "description": " Özgün tasarımlarıyla ayakkabı ve bot markaları arasında efsaneleşen Caterpillar, hem günlük hayatın koşuşturması hem de iş hayatında sahip olduğu kalite, su dayanıklılık özelliği ve çeşitli modelleriyle erkeklerin bot ve ayakkabı tercihlerinde ilkler arasında yerini korumaya devam ediyor. Dayanıklı ve kaliteli malzemelerle üretilen Caterpillar Ayakkabı ve Bot modelleri sizlere uzun ömürlü kullanım imkânı sunuyor.\n\n",
     "price": 250,
-    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot5.jpeg",
+    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot8.jpeg",
+    "type": "Boots",
+    "brand": "Caterpillar",
+    "quantityInStock": 100
+  },
+  {
+    "id": 9,
+    "name": "Caterpillar Bru",
+    "description": " Özgün tasarımlarıyla ayakkabı ve bot markaları arasında efsaneleşen Caterpillar, hem günlük hayatın koşuşturması hem de iş hayatında sahip olduğu kalite, su dayanıklılık özelliği ve çeşitli modelleriyle erkeklerin bot ve ayakkabı tercihlerinde ilkler arasında yerini korumaya devam ediyor. Dayanıklı ve kaliteli malzemelerle üretilen Caterpillar Ayakkabı ve Bot modelleri sizlere uzun ömürlü kullanım imkânı sunuyor.\n\n",
+    "price": 250,
+    "pictureUrl": "https://raw.githubusercontent.com/mkucukkoc/JsonECommerce/main/bot9.jpeg",
     "type": "Boots",
     "brand": "Caterpillar",
     "quantityInStock": 100
